@@ -1,17 +1,19 @@
-<h1 align="center"><b>Hi , I'm Yasmine Bouaita </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Yasmine Bouaita </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+in+Progress;Spring+Boot+%26+Angular+Enthusiast;Always+learning+and+building!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+in+Progress;Spring+Boot+%26+Angular+Enthusiast;Always+learning+and+building!" alt="typing"/>
   </a>
 </p>
 
 <br>
 
-## <picture><img src="https://i.imgur.com/ZcFz8xy.gif" width="50px"></picture> **About Me**
+## <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/student/student-plain.svg" width="50px" alt="about-icon"></picture> **About Me**
 
 <picture>
-<img align="right" src="https://i.imgur.com/Oj1ZqfE.gif" width="250px">
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="220px" alt="decorative-code"/>
 </picture>
 
 - Software engineering student @ **ISET Charguia**  
@@ -23,11 +25,11 @@
 
 <br><br>
 
-<img src="https://i.imgur.com/1Zd0Q8f.gif"><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="180" alt="decorative"/><br><br>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/skills/skills-plain.svg" width="22" alt="skills-icon"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -86,22 +88,22 @@
 <div align="center">
 
 <a href="https://github.com/yassinfok">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinfok&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinfok&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinfok&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinfok&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="top-langs"/>
 </a>
 
 </div>
 
 ---
 
-## <b> Let's Connect..!</b> <img src="https://i.imgur.com/8c3zVGM.gif" width ="80">
+## <b> Let's Connect..!</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-plain.svg" width ="64" alt="handshake">
 
 <div align='left'>
 <ul>
 
 <li>
 <a href="https://www.linkedin.com/in/yasminebouaita" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:%20Yasmine%20Bouaita-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin:%20Yasmine%20Bouaita-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </li>
 
@@ -109,7 +111,7 @@
 
 <li>
 <a href="mailto:yassmine.bouaitaa@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20Yasmine%20Bouaita-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/gmail:%20Yasmine%20Bouaita-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 </li>
 
@@ -117,7 +119,7 @@
 
 <li>
 <a href="https://github.com/yassinfok" target="_blank">
-<img src="https://img.shields.io/badge/github:%20yassinfok-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github:%20yassinfok-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 </li>
 
