@@ -8,10 +8,10 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## <picture><img src="https://i.imgur.com/ZcFz8xy.gif" width="50px"></picture> **About Me**
 
 <picture>
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+<img align="right" src="https://i.imgur.com/Oj1ZqfE.gif" width="250px">
 </picture>
 
 - Software engineering student @ **ISET Charguia**  
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://i.imgur.com/1Zd0Q8f.gif"><br><br>
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-## <b> Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b> <img src="https://i.imgur.com/8c3zVGM.gif" width ="80">
 
 <div align='left'>
 <ul>
