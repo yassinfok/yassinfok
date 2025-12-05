@@ -10,10 +10,10 @@
 
 <br>
 
-## <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50px" alt="about-icon"></picture> **About Me**
+## <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/student/student-plain.svg" width="50px" alt="about-icon"></picture> **About Me**
 
 <picture>
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeforces/codeforces-plain.svg" width="220px" alt="decorative-code"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="220px" alt="decorative-code"/>
 </picture>
 
 - Software engineering student @ **ISET Charguia**  
@@ -25,11 +25,11 @@
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-plain.svg" width="180" alt="decorative"/><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="180" alt="decorative"/><br><br>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="22" alt="skills-icon"><b> Skills</b>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="22" alt="skills-icon"> <b>Skills</b>
 <br>
 
 <p align="center">
@@ -83,7 +83,7 @@
 
 ---
 
-## <b> Github Stats </b>
+## <b>Github Stats</b>
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 
 ---
 
-## <b> Let's Connect..!</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handshake/handshake-plain.svg" width ="64" alt="handshake">
+## <b>Let's Connect..!</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="handshake">
 
 <div align='left'>
 <ul>
