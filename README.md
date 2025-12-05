@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+in+Progress;Spring+Boot+%26+Angular+Enthusiast;Always+learning+and+building!" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+in+Progress;Spring+Boot+%26+Angular+Enthusiast;Always+learning+and+building!" alt="typing"/>
   </a>
 </p>
 
 <br>
 
-## <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/student/student-plain.svg" width="50px" alt="about-icon"></picture> **About Me**
+## <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50px" alt="about-icon"></picture> **About Me**
 
 <picture>
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="220px" alt="decorative-code"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeforces/codeforces-plain.svg" width="220px" alt="decorative-code"/>
 </picture>
 
 - Software engineering student @ **ISET Charguia**  
@@ -25,11 +25,11 @@
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="180" alt="decorative"/><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-plain.svg" width="180" alt="decorative"/><br><br>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/skills/skills-plain.svg" width="22" alt="skills-icon"><b> Skills</b>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="22" alt="skills-icon"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -59,7 +59,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-%23007396.svg?style=for-the-badge&logo=metabase&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%230072C6.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <br>
 
@@ -67,7 +67,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -96,7 +96,7 @@
 
 ---
 
-## <b> Let's Connect..!</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-plain.svg" width ="64" alt="handshake">
+## <b> Let's Connect..!</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handshake/handshake-plain.svg" width ="64" alt="handshake">
 
 <div align='left'>
 <ul>
