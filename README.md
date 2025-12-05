@@ -23,10 +23,7 @@
 - Open to internships & new opportunities  
 - Contact: **yassmine.bouaitaa@gmail.com**
 
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="180" alt="decorative"/><br><br>
-
+<br>
 ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="22" alt="skills-icon"> <b>Skills</b>
