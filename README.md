@@ -14,6 +14,8 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="220px" alt="decorative-code"/>
 </picture>
 
+<h1>About</h1>
+
 - Software engineering student @ **ISET Charguia**  
 - Passionate about backend & full-stack development  
 - Experienced with dashboards, data visualization, and secure user management  
@@ -22,8 +24,6 @@
 - Contact: **yassmine.bouaitaa@gmail.com**
 
 <br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="180" alt="decorative"/><br><br>
 
 ---
 
